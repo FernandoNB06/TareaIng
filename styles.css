@@ -105,7 +105,7 @@ main {
 }
 
 .post {
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     padding: 15px;
     border-radius: 5px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
@@ -119,7 +119,7 @@ main {
 }
 
 footer {
-    background-color: #3b5998;
+    background-color: #98603b;
     color: white;
     text-align: center;
     padding: 10px;
